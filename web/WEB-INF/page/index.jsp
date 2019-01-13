@@ -179,6 +179,28 @@
                     </li>
                 </ul>
             </li>
+            <!--for test -->
+            <li>
+                <a href="javascript:;">
+                    <i class="iconfont">&#xe6b4;</i>
+                    <cite>树形测试</cite>
+                    <i class="iconfont nav_right">&#xe697;</i>
+                </a>
+                <ul class="sub-menu">
+                    <li>
+                        <a _href="${ctx }/document/list">
+                            <i class="iconfont">&#xe6a7;</i>
+                            <cite>子菜单1</cite>
+                        </a>
+                    </li>
+                    <li>
+                        <a _href="${ctx }/document/add">
+                            <i class="iconfont">&#xe6a7;</i>
+                            <cite>子菜单2</cite>
+                        </a>
+                    </li>
+                </ul>
+            </li>
         </ul>
       </div>
     </div>
